@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h1{
+    color: dodgerblue;
+}
+
+h5{
+    color: dodgerblue;
+}
+
+a{
+    color: orange;
+}
+
+body{
+    background-color: snow;
+}
+
+img{
+    width: 60%;
+}
