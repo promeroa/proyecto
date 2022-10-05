@@ -17,13 +17,17 @@ a{
 }
 
 body{
-    background-color: snow;
+    background-color: lightskyblue;
 }
 
 img{
-    width: 60%;
+    width: 20%;
+    align-items: center;
+    border: 5px;
+    border-color: dodgerblue;
 }
 
 li{
     text-align: left;
 }
+
