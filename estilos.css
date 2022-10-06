@@ -16,18 +16,25 @@ a{
     color: orange;
 }
 
+a:hover{
+    color: aliceblue;
+}
+
 body{
     background-color: lightskyblue;
 }
 
 img{
-    width: 20%;
+    width: 30%;
     align-items: center;
-    border: 5px;
-    border-color: dodgerblue;
+    border: dodgerblue 5px solid;
+    display: inline-block;
 }
 
 li{
     text-align: left;
 }
 
+p{
+    text-align: justify;
+}
